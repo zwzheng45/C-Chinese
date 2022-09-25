@@ -1,5 +1,7 @@
-# 毫无意义，纯属娱乐
-一个头文件，将一些常用的C库函数替换为中文，进而实现C语言的中文编程
+# 纯属娱乐，~~可以折磨看代码的人（~~
+一个头文件，将一些常用的C库函数替换为中文，进而实现C语言的中文编程  
+<br>
+python也有人做了，详见[这个仓库](https://github.com/Littlefean/SmartPython/tree/master/python%E8%BF%B7%E6%83%91%E8%A1%8C%E4%B8%BA/%E4%B8%AD%E6%96%87%E7%BC%96%E7%A8%8B)
 <br>
 <br>
 <br>
