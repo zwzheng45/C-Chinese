@@ -4,13 +4,11 @@
 python也有人做了，详见[这个仓库](https://github.com/Littlefean/SmartPython/tree/master/python%E8%BF%B7%E6%83%91%E8%A1%8C%E4%B8%BA/%E4%B8%AD%E6%96%87%E7%BC%96%E7%A8%8B)
 <br>
 <br>
-<br>
 ## 使用
 在项目中包含此头文件
 ```C
 #include "Chinese.h"
 ```
-<br>
 
 ### 示例代码
 ```C
